@@ -1,40 +1,83 @@
-<p align="center">
-  <img src="https://github.com/ShamanthHiremath/ShamanthHiremath/blob/main/Sparkle.png" alt="Shamanth M Hiremath" width="90%" style="border-radius:50%;">
-</p>
+# Shamanth M Hiremath - Computer Science and Engineering
 
-## 👋 *Hey ya'll*
-# *Its* **Shamanth M Hiremath**
+## Contact Information
+- 📍 Bengaluru, Karnataka, India
+- 📧 [shamanth.hiremath.101@gmail.com](mailto:shamanth.hiremath.101@gmail.com)
+- 📞 +91-8660857769
+- [LinkedIn](#) | [GitHub](#) | [LeetCode](#) | [CodingNinjas](#) | [GeeksForGeeks](#)
 
-### AIML Afficionado || Flutter App Dev || Critical Analyst || Computer Affecionate || Philomath || Quizzer || Class Rep
-### [**CSE MSRIT '26, Bangalore, India**](https://www.linkedin.com/school/m.s.-ramaiah-institute-of-technology/)
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shamanthhiremath&label=Profile%20views&color=brightgreen&style=flat&count=10000" alt="shamanthhiremath" /> </p>
+## Education
+**Ramaiah Institute of Technology, Bengaluru**  
+_B.E. - Computer Science and Engineering (2022 – 2026)_  
+CGPA: 9.42  
 
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShamanthHiremath)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shamanth-m-hiremath-b46760259)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shamanth.hiremath.101@gmail.com)
-[![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/shamanthhiremath/)
-[![CodingNinjas](https://img.shields.io/badge/CodinNinjas-grey?style=for-the-badge&logo=codingninjas&logoColor=orange)](https://www.codingninjas.com/studio/profile/d0c963a7-de0d-4e60-be67-b8fcf4566caa)
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-white?style=for-the-badge&logo=geeksforgeeks&logoColor=brightgreen)](https://auth.geeksforgeeks.org/user/shamanthhipum1)
-[![HackerRank](https://img.shields.io/badge/HackerRank-brightGreen?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/shamanth_hirema1)
-[![Kaggle](https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/shamanthmhiremath)
-[![StackOverflow](https://img.shields.io/badge/StackOverflow-skyblue?style=for-the-badge&logo=stackoverflow&logoColor=orange)](https://stackoverflow.com/users/22171319/shamanth-m-hiremath)
+**Hebbal PU College (Aakash Institute, JEE)**  
+_Upper Secondary Graduation (2020 – 2022)_  
+JEE Mains: 97.56 | PU Boards: 90.33  
 
+**JSS Public School, Dharwad**  
+_Higher and Primary School Education (2010 – 2020)_  
+CBSE Boards: 95  
 
-- 🌱 I’m trying to master **Artificial Intelligence and Machine Learning and its charming subsets (GenAI, GANs, Deep Learning)**
-- 💬 Ask me about **AIML, GenAI, Deep Learning, Python, Flutter App Dev, C++, C, etc**
-- 📫 How to reach me? Mail to **shamanth.hiremath.101@gmail.com**
+---
 
-## 🔗 Connect with me on </h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/shamanth-m-hiremath-b46760259/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shamanth-m-hiremath-b46760259/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/22171319/shamanth-m-hiremath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22171319/shamanth-m-hiremath" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/shamanthmhiremath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/shamanthmhiremath" height="30" width="40" /></a>
-<a href="https://leetcode.com/shamanthhiremath/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/shamanthhiremath/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/shamanth_hirema1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/shamanth_hirema1" height="30" width="40" /></a>
-<a href="https://www.codingninjas.com/studio/profile/d0c963a7-de0d-4e60-be67-b8fcf4566caa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.codingninjas.com/studio/profile/d0c963a7-de0d-4e60-be67-b8fcf4566caa" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/shamanthhipum1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/shamanthhipum1" height="30" width="40" /></a>
-</p>
+## Projects
 
-## 💻 Technologies and Languages:
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://github.com/ShamanthHiremath" target="_blank" rel="noreferrer"> <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="github" width="40" height="40"/> </a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### **Bail Saarathi** (2024)
+**Technologies:** LangChain, RAG, LLM’s, NLP, HuggingFace, ChromaDB, Python, MERN Stack  
+- Spearheaded the development of an RAG + LLM model for legal industry enhancement.  
+- Implemented a digital system to aid lawyers in bail applications and judges in case analysis.  
+- Optimized with advanced prompt engineering for high accuracy in legal document analysis.
+
+### **Phishing URL Prediction** (2024)  
+**Technologies:** ML, Scikit-Learn, React, JavaScript, HTML, CSS  
+- Developed a robust phishing detection system using RandomForest classifier.  
+- Achieved 97.31% accuracy in identifying phishing threats, enhancing online security.
+
+### **NoProxy: Face Recognition** (2023)  
+**Technologies:** YOLOv8, FaceNet, DeepFace, OpenCV, TensorFlow, Keras  
+- Developed a face recognition system for automating class attendance and enhancing academic integrity.  
+- Utilized deep learning models to ensure reliable attendance tracking and user authentication.
+
+### **NotesGenie: Exam ChatBot** (2024)  
+**Technologies:** LangChain, RAG, LLM’s (NLP), GenAIEmbeddings Model  
+- Built a Retrieval-Augmented Generation (RAG) chatbot to assist students with study materials.  
+- Integrated memory functionality for personalized, context-driven interactions with students.
+
+---
+
+## Skills
+
+- **Programming Languages:** C, C++, Java, Python, R, Dart (Flutter)
+- **AI & ML:** Model Training, RAG, LangChain, Deep Learning, NLP, LLM’s, Prompt Engineering
+- **Web & App Development:** Flutter, Firebase, Django, Flask, Streamlit, MongoDB, FastAPI
+- **Tools & Tech:** Git, VS Code, Docker, Figma, Wireshark
+- **Soft Skills:** Problem-Solving, Team Leadership, Communication, Time Management
+
+---
+
+## Certifications
+- **Machine Learning Specialisation** - Coursera (Instructor: Andrew NG)
+- **LangChain Converse With Your Data** - Coursera (Instructor: Harrison Chase)
+- **Flutter and Dart (The Complete Guide)** - Udemy (Instructor: Maximilian Schwarzmuller)
+- **Postman API Fundamentals** - Postman
+- **Python** - Kaggle
+
+---
+
+## Coding Platforms
+- **LeetCode:** 200+ problems solved, Rating 1520
+- **CodingNinjas:** 100+ problems solved
+- **GeeksForGeeks:** 80+ problems solved
+
+---
+
+## Extracurriculars
+- Conducted lessons on AI technology for school students, promoting awareness of its applications.
+
+---
+
+## Let's Connect!
+Feel free to reach out for collaboration, networking, or any other inquiries. Looking forward to building and learning with the tech community.
