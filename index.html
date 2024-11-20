@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Simple Calculator</title>
+        <link rel="stylesheet" href="style.css"> 
+    </head>
+    <body>
+        <div id="box">
+            <table>
+                <tr>
+                    <td colspan="4" style="table-layout: auto; padding-bottom: 5px;"><input type="text" id="ans" disabled><br></td>
+                </tr>
+                <tr>
+                    <td><button value="+" id="sign" onclick="document.getElementById('ans').value +='+'">+</button><br></td>
+                    <td><button value="-" id="sign" onclick="document.getElementById('ans').value +='-'">-</button></td>
+                    <td><button value="*" id="sign" onclick="document.getElementById('ans').value +='*'">*</button></td>
+                    <td><button value="/" id="sign" onclick="document.getElementById('ans').value +='/'">/</button></td>
+                </tr>
+                <tr>
+                    <td><button value="7" id ="number" onclick="document.getElementById('ans').value +='7'">7</button></td>
+                    <td><button value="8" id ="number" onclick="document.getElementById('ans').value +='8'">8</button></td>
+                    <td><button value="9" id ="number" onclick="document.getElementById('ans').value +='9'">9</button></td>
+                    <td rowspan="4"><button value="=" id="equal" onclick="document.getElementById('ans').value =eval(document.getElementById('ans').value)">=</button></td>
+                </tr>
+                <tr>
+                    <td><button value="4" id ="number" onclick="document.getElementById('ans').value +='4'">4</button></td>
+                    <td><button value="5" id ="number" onclick="document.getElementById('ans').value +='5'">5</button></td>
+                    <td><button value="6" id ="number" onclick="document.getElementById('ans').value +='6'">6</button></td>
+                </tr>
+                <tr>
+                    <td><button value="1" id ="number" onclick="document.getElementById('ans').value +='1'">1</button></td>
+                    <td><button value="2" id ="number" onclick="document.getElementById('ans').value +='2'">2</button></td>
+                    <td><button value="3" id ="number" onclick="document.getElementById('ans').value +='3'">3</button></td>
+                </tr>
+                <tr>
+                    <td><button value="." id="sign" onclick="document.getElementById('ans').value +='.'">.</button></td>
+                    <td><button value="0" id ="number" onclick="document.getElementById('ans').value +='0'">0</button></td>
+                    <td><button value="clear" id="sign" onclick="document.getElementById('ans').value =''">AC</button></td>
+                </tr>
+            </table>
+        </div>
+    </body>
+</html>
